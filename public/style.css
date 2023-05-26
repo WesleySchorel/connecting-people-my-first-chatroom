@@ -115,5 +115,6 @@ section form > button {
   border: 0;
   opacity: 80%;
   outline: none;
+  cursor: pointer;
 }
 
